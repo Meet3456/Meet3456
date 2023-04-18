@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Data-Science and Backend Developement<br>👯 I’m looking to collaborate on : Various ML and AI projects<br><br>🌱 I’m currently learning : ML , Node-js<br>💬 How to reach me : meet2work09@gmail.com<br>
+🔭 I’m currently working on : Data-Science and Backend Developement<br>👯 I’m looking to collaborate on : Various ML and AI projects<br>🌱 I’m currently learning : ML , Node-js<br>💬 How to reach me : meet2work09@gmail.com<br>
 
 
 ## 🌐 Socials:
